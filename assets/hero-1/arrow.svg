@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="30" viewBox="0 0 13 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="30" height="13" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="arrow" transform="translate(13) rotate(90)" clip-path="url(#clip-path)">
+    <g id="btn_copy" data-name="btn copy">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M.929,1.408H29.744V0H0V1.408Z" transform="translate(0 5.6)" fill="#fff"/>
+      <path id="Line_4" data-name="Line 4" d="M6.5.5l-6,6" transform="translate(23.5 6.5)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Line_4_Copy" data-name="Line 4 Copy" d="M-6.5.5l6,6" transform="translate(30.5 -0.5)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
